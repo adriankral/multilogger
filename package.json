@@ -1,0 +1,26 @@
+{
+  "name": "multilogger",
+  "version": "0.0.1",
+  "description": "A Node.js wrapper of log.js and its derivatives. Its main goal is to route log messages to different logs depending on their verbosity level.",
+  "main": "./lib/multilogger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adriankral/MultiLogger"
+  },
+  "dependencies": {
+    "log": ">= 1.2.0"
+  },
+  "keywords": [
+    "multilogger",
+    "log",
+    "logger"
+  ],
+  "engines": {
+    "node": ">= 0.2.0"
+  },
+  "author": "Adrian Rudolf Kral <adriankral@gmail.com>",
+  "license": "MIT"
+}
