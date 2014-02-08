@@ -1,6 +1,6 @@
 {
   "name": "multilogger",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A Node.js wrapper of log.js and its derivatives. Its main goal is to route log messages to different logs depending on their verbosity level.",
   "main": "./lib/multilogger.js",
   "scripts": {
